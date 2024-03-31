@@ -1,4 +1,4 @@
-# STDC_python
+# STDC_Symbolic-regression-with-genetic-programming
 predict forex overshoot length using STDC(single threshold directional change) with genetic programming 
 
 為替市場における転換点をovershootの長さを使用して予測する遺伝的プログラミングを用いたモデルになります。
